@@ -1,7 +1,13 @@
 # Lessons
-
-#####  1. HTML Lists [playground link](http://plnkr.co/edit/WJIlJ0brkw9LihEYbUsG?p=streamer&s=YUdZwMyfvsxhXP1e)
+----
+#####  1. HTML Lists [playground link](https://thimbleprojects.org/weijian/172451/)
 Learn about Objects, Lists and jQuery 
+
+
+##### Playground
+- open the playground link [here](https://thimbleprojects.org/weijian/172451/)
+- click the **REMIX** button
+- start building
 
 ##### Tools 
 * [jQuery](http://api.jquery.com/) - JS library
